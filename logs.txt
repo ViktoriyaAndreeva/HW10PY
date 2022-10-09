@@ -1,0 +1,9 @@
+2022-10-09 12:33:02,786 [INFO] - Bot started
+2022-10-09 12:33:03,225 [INFO] - Message /start from Navernoetoya
+2022-10-09 12:33:03,226 [INFO] - New user Navernoetoya
+2022-10-09 12:33:05,592 [INFO] - Message Комплексные from Navernoetoya
+2022-10-09 12:33:05,592 [INFO] - User Navernoetoya selects: Комплексные
+2022-10-09 12:33:13,741 [INFO] - Message 4+5j from Navernoetoya
+2022-10-09 12:33:15,241 [INFO] - Message + from Navernoetoya
+2022-10-09 12:33:31,734 [INFO] - Message 12+5j from Navernoetoya
+2022-10-09 12:33:33,660 [INFO] - Message результат from Navernoetoya
